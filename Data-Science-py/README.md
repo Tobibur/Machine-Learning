@@ -3,4 +3,4 @@
 ## 1. Male-Female classifier (demo.py)
 
 ### Output of demo.py
-<img src = "Data-Science-py/demo_output.png">
+<img src = "demo_output.png">
